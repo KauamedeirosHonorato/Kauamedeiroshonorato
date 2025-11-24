@@ -1,8 +1,8 @@
 <h1 align="center">JayChouDev 👨‍💻</h1>
 
 <p align="center">
-  <i>Desenvolvedor Front-End apaixonado por design, código limpo e criar coisas fodas.</i><br/>
-  <i>Estudando programação há quase 3 anos — e ainda com fome de mais!</i>
+  <i>Desenvolvedor Front-End apaixonado por design, código limpo e Muito Cafe.</i><br/>
+  <i>Estudando programação há quase 4 anos — e ainda com fome de mais!</i>
 </p>
 
 <p align="center">
