@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=87CEFA&center=true&vCenter=true&width=600&lines=Ola,+eu+sou+o+Kaua+(JayChouDev)!;Full+Stack+Developer;Backend+Focused;UI+Designer&v=3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=87CEFA&center=true&vCenter=true&width=600&lines=Ola,+eu+sou+o+Kaua+(JayChouDev)!;Full+Stack+Developer;Backend+Focused;UI+Designer&v=5" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -16,10 +16,9 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <p><em>(Se as estatísticas abaixo não carregarem, pode ser uma instabilidade temporária do serviço. Tente recarregar a página.)</em></p>
-  <a href="https://github.com/JayChouDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=JayChouDev&show_icons=true&theme=dracula&hide_border=true&v=3" height="150" alt="Estatísticas do GitHub" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayChouDev&layout=compact&theme=dracula&hide_border=true&v=3" height="150" alt="Linguagens mais usadas" />
+  <a href="https://github.com/KauamedeirosHonorato">
+    <img src="https://github-readme-stats.vercel.app/api?username=KauamedeirosHonorato&show_icons=true&theme=dracula&hide_border=true" height="150" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauamedeirosHonorato&layout=compact&theme=dracula&hide_border=true" height="150" alt="Linguagens mais usadas" />
   </a>
 </div>
 
