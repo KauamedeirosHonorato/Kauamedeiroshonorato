@@ -1,67 +1,75 @@
-<h1 align="center">JayChouDev 👨‍💻</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=87CEFA&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+o+Kauã+(Jay)!+👨‍💻;Front-End+%26+UI+Designer;Desenvolvedor+de+Experiências." alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JayChouDev&style=for-the-badge&color=87CEFA" alt="Contador de Visualizações no Perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=JayChouDev&style=flat-square&color=87CEFA&label=VISITAS" alt="Contador de Visualizações" />
 </p>
 
 <p align="center">
   ⭐ Desenvolvedor Front-End apaixonado por <strong>UI Design</strong>, <strong>Código Limpo</strong> e <strong>Experiência do Usuário</strong>.<br/>
-  ☕ Estudando programação há quase <strong>4 anos</strong> — sempre entre uma linha de código e uma boa xícara de café.
+  ☕ Programando há quase <strong>4 anos</strong> — sempre entre uma linha de código, uma boa xícara de café e um treino pesado.
 </p>
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/Y1vohJMVMtjSQxmUot/giphy.gif" height="200" alt="GIF de codificação/café" />
-</p>
+---
 
-
-
-## 🚀 Tech Stack
+## 🚀 Minha Stack
 
 <div align="center">
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/> <!-- corrigido -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-</p>
-
-
-### Back-End & Banco de Dados
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</p>
-
-### Ferramentas & Metodologias
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="45"/>
-</p>
-
+  <p>Construindo aplicações modernas e responsivas com as melhores tecnologias do mercado:</p>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,html,css" alt="Front-End Skills" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,mysql,trello,git,github" alt="Back-End and Tools Skills" />
+  </a>
 </div>
 
 ---
 
 ## 💡 Sobre Mim
 
-Sou **Kauã Medeiros**, um desenvolvedor que une estética, desempenho e fluidez na criação de interfaces modernas. Minha jornada começou há 4 anos, e desde então venho construindo projetos que valorizam usabilidade, experiência e organização.
+Sou um desenvolvedor que une estética, desempenho e fluidez na criação de interfaces. Minha jornada começou construindo projetos que valorizam usabilidade e organização, sempre buscando a melhor experiência para o usuário final.
 
-Atualmente trabalho com **React**, **TypeScript** e **Tailwind**, desenvolvendo aplicações rápidas, responsivas e limpas. Também atuo com **Java** no back-end, utilizando **SQL** para persistência de dados.
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** (Prev. Abril 2026).
+- 🏢 Fundador da **Nexa**, onde atualmente lidero o desenvolvimento do **Nexa Zenith**, um aplicativo de fitness focado em alta performance criado com React Native.
+- 💻 Atuo principalmente com **React, TypeScript e Tailwind**, desenvolvendo aplicações rápidas e limpas. No back-end, garanto a estabilidade com **Java** e persistência de dados em **SQL**.
 
-🚀 **Projetos em Destaque:**
-
-- ChatBot IA: lógica de conversação e interface intuitiva.  
-- Kanban Interativo: experiência de usuário + manipulação de estado.  
-- Bio Profile & IMC Calculator:** responsividade real e DOM dinâmico.
-- E-Comerce Artesanal: responsividade para Ios e android, desktop com responsividade propria.
+### 🛠️ Projetos em Destaque
 
 > *"Me avisaram sobre o sol… eu queria incendiar o céu."* — Anjo Ícaro
+
+* 🤖 **ChatBot IA:** Lógica avançada de conversação aliada a uma interface altamente intuitiva.
+* 📋 **Kanban Interativo:** Foco extremo na experiência do usuário e manipulação de estado complexa.
+* 🏋️ **Bio Profile & IMC Calculator:** Aplicação com responsividade real, cálculo preciso e DOM dinâmico.
+* 🛒 **E-Commerce Artesanal:** Multiplataforma, com responsividade nativa para iOS/Android e layout dedicado para desktop.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JayChouDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayChouDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+</div>
 
 ---
 
 ## 🌐 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://instagram.com/SEU_INSTAGRAM_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kauã-medeiros-honorato-3495a0344/" target="_blank">
